@@ -1,0 +1,14 @@
+{
+  "name": "nightmare-example",
+  "version": "1.0.0",
+  "description": "A simple example of using Nightmare to do a screen capture.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
